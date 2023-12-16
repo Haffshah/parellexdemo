@@ -45,7 +45,6 @@ const locations = [
     place: 'Egypt',
     imageUrl: '$urlPrefix/07-cairo.jpg',
   ),
-
   Location(
     name: 'Mount Rushmore',
     place: 'U.S.A',
