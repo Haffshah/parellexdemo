@@ -48,7 +48,7 @@ class LocationListHorizontalItem extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 16),
       child: AspectRatio(
-        aspectRatio: 4/3,
+        aspectRatio: 4 / 3,
         child: ClipRRect(
           borderRadius: BorderRadius.circular(16),
           child: Stack(
